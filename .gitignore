@@ -1,0 +1,5 @@
+package-lock.json
+nohup.out
+**/nohup.out
+node_modules
+**/node_modules
