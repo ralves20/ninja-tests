@@ -1,0 +1,21 @@
+{
+  "name": "ninjaone-testcafe",
+  "version": "1.0.0",
+  "description": "Automated Tests Using Test Cafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome"
+  },
+  "keywords": [
+    "testcafe",
+    "automation",
+    "qa",
+    "e2e"
+  ],
+  "author": "Rodrigo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "testcafe": "^3.6.2"
+  }
+}
